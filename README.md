@@ -1,6 +1,8 @@
 # CreditCardCustomerChurn
-Notebook for data analysis and data sets to support.  Designed to work with IBM Watson Studio.
+Project artefacts for Watson Studio.
 
-Designed to work with Pandas and Brunel Visualisations.
+I've included 2 data sets to work with.
 
-This is based on a version from the IBM Analytics team that works with Spark data frames.
+There's a Jupyter notebook that can be provisioned for data analysis using Brunel visualisations (very cool!).
+
+I've also included a sample SPSS Flow to create a C5.0 model.
