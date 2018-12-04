@@ -1,7 +1,7 @@
 # CreditCardCustomerChurn
 Project artefacts for Watson Studio.
 
-I've included 2 data sets to work with.  CUST_SUM.csv and CHURN_RATE.csv.
+I've included 2 data sets to work with:  CUST_SUM.csv and CHURN_RATE.csv.
 
 Q:  What can you do with CUST_SUM.csv in Watson Studio:
 
