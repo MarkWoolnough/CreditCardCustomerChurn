@@ -12,4 +12,5 @@ A:  All of this:
 5.  Create a new Model Flow (SPSS flow) from file and explore the data asset using the .str file included in this repository.  Steps include data analysis, filtering, setting the data types (target), building a C5.0 model, analysing the model and a toy example of creating an unsupervised learning model using K-means (doesn't work very well, but shows the art of the possible).
 
 What can you do with CUST_SUM.csv and CHURN_RATE.csv?
+
 A:  There's a Jupyter notebook that can be provisioned for data analysis using Brunel visualisations (very cool!).
