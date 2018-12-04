@@ -4,6 +4,7 @@ Project artefacts for Watson Studio.
 I've included 2 data sets to work with.  CUST_SUM.csv and CHURN_RATE.csv.
 
 Q:  What can you do with CUST_SUM.csv in Watson Studio:
+
 A:  All of this:
 1.  Create a project, upload the data asset.
 2.  Create a Watson ML service for your project.
